@@ -1,2 +1,2 @@
 # nifi
-Extendede apache nifi image
+Extended Apache Nifi image
